@@ -3,7 +3,7 @@
 ### 描述
 这是在刚接触Unity3D的学习文件，包含了初始阶段的学习代码以及一个FPSDemo实战项目
 
-![image](https://github.com/ZhaoQCl/FPSDemo/tree/main/Image/Start1.png)
+![image](Image/Start1.png)
 
 利用第一人称控制器包进行第一人称视角的控制
 
